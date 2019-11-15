@@ -11,7 +11,7 @@ Write Scripts for the ``mongo`` Shell
    :class: singlecol
 
 You can write scripts for the :binary:`~bin.mongo` shell in JavaScript that
-manipulate data in MongoDB or perform administrative operation.
+manipulate data in MongoDB or perform administrative operations.
 
 This tutorial provides an introduction to writing JavaScript that uses
 the :binary:`~bin.mongo` shell to access MongoDB.
